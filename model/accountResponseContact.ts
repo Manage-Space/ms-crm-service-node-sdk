@@ -45,7 +45,7 @@ export class AccountResponseContact {
     */
     'firstName': string;
     /**
-    * Middle name
+    * Middle initial
     */
     'middleInitial'?: string;
     /**

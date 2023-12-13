@@ -39,7 +39,7 @@ export class ContactRequest {
     */
     'firstName': string;
     /**
-    * Middle name
+    * Middle initial
     */
     'middleInitial'?: string;
     /**
